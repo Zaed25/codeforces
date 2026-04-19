@@ -1,0 +1,13 @@
+# Executables
+data/*
+!data/input.txt
+!data/.gitkeep
+
+# macOS junk
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+*.xcodeproj/
+*.xcworkspace/
